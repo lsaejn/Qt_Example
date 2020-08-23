@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/QSpinBox_Alime">
+        <file alias="DarkOrange">Qss/DarkOrange.qss</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/spindown.png</file>
+        <file>images/spinup.png</file>
+    </qresource>
+</RCC>

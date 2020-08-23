@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>QtProgressBarClass</class>
+ <widget class="QWidget" name="QtProgressBarClass" >
+  <property name="objectName" >
+   <string notr="true">QtProgressBarClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QtProgressBar</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="QtProgressBar.qrc"/>
+ </resources>
+ <connections/>
+</UI>

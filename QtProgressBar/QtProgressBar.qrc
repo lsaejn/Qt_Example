@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="play">images/播放.png</file>
+        <file alias="backward">images/后退.png</file>
+        <file alias="forward">images/前进.png</file>
+        <file alias="circle">images/循环.png</file>
+        <file alias="volume">images/音量.png</file>
+        <file alias="drager">images/红点.png</file>
+    </qresource>
+</RCC>

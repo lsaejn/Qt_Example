@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>QCheckBox_AlimeClass</class>
+ <widget class="QWidget" name="QCheckBox_AlimeClass" >
+  <property name="objectName" >
+   <string notr="true">QCheckBox_AlimeClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QCheckBox_Alime</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="QCheckBox_Alime.qrc"/>
+ </resources>
+ <connections/>
+</UI>

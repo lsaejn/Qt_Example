@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>QPushButton_AlimeClass</class>
+ <widget class="QWidget" name="QPushButton_AlimeClass" >
+  <property name="objectName" >
+   <string notr="true">QPushButton_AlimeClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QPushButton_Alime</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="QPushButton_Alime.qrc"/>
+ </resources>
+ <connections/>
+</UI>

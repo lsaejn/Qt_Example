@@ -1,0 +1,25 @@
+QWidget{
+background-color: rgb(255,255,255);
+}
+
+QCommandLinkButton{
+background-color: rgb(0,162,232);
+color: rgb(220,220,220);
+border: none;
+}
+
+QCommandLinkButton:pressed {
+background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #dadbde, stop: 1 #f6f7fa);
+}
+
+QCommandLinkButton:hover {
+background-color: rgb(0,162,2);
+}
+
+QLabel {
+    border: 1px;
+    color: rgb(220,220,220);
+    border-radius: 4px;
+    padding: 2px;
+    line-height: 20px;
+}

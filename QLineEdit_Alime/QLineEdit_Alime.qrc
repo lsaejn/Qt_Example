@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QLineEdit_Alime">
+        <file alias="logo">images/logo_18x18.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>QMusicViewClass</class>
+ <widget class="QWidget" name="QMusicViewClass" >
+  <property name="objectName" >
+   <string notr="true">QMusicViewClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QMusicView</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="QMusicView.qrc"/>
+ </resources>
+ <connections/>
+</UI>

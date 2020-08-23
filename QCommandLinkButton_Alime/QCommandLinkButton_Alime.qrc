@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QCommandLinkButton_Alime">
+        <file alias="myqss">Qss/DarkBlue.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QListWidget_Alime">
+        <file alias="back">images/后退.png</file>
+    </qresource>
+</RCC>
